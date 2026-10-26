@@ -1,0 +1,4 @@
+﻿Segmento,n,Precio_arriendo,Area_m2,Habitaciones,Banos,Antiguedad_anios,Estrato,Estratos,Precio_min,Precio_max
+Económico,419,1469201.9,49.7,1.5,1.5,8.5,2.5,2–3,702480,2192854
+Intermedio,209,3130625.3,85.4,2.5,1.5,8.6,4.1,4–6,1800798,5655479
+Premium,372,6353200.0,156.1,4.0,1.5,8.3,5.5,5–6,3524810,8988836
