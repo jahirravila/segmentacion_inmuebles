@@ -16,15 +16,11 @@ Segmentación de un portafolio de 1 000 inmuebles en arriendo (Suba, Chapinero y
 | `resultados/inmuebles_segmentados.csv` | ID de cada inmueble con su cluster en cada modelo |
 | `resultados/perfil_segmentos.csv` | Perfil de los segmentos propuestos |
 
-## Cómo ejecutar en Google Colab
+## Links de Colabs
 
-1. Abra el notebook desde GitHub en Colab (`File → Open notebook → GitHub`, o reemplace `github.com` por `colab.research.google.com/github` en la URL del notebook).
-2. En la primera celda de código, cambie `URL_GITHUB` por la URL *raw* del dataset en este repositorio:
-   `https://raw.githubusercontent.com/<usuario>/<repositorio>/main/data/DATASET_INmuebles.xlsx`
-   (alternativa: suba el archivo con el panel de archivos de Colab; si no lo encuentra, el notebook abre un diálogo para subirlo).
-3. `Runtime → Run all`.
+https://colab.research.google.com/drive/1duqtMKB3q3VrjEZg4vPCju7NBU6fye-_?usp=sharing
 
-Localmente: `pip install -r requirements.txt` y ejecute los notebooks desde la raíz del repositorio.
+https://colab.research.google.com/drive/1HabywTujurGnLXOYHTdSwcDBYS-8sUUw?usp=sharing
 
 ## Principales resultados
 
